@@ -1,0 +1,13 @@
+[debug] [2018-02-05T15:29:44.706Z] ----------------------------------------------------------------------
+[debug] [2018-02-05T15:29:44.708Z] Command:       /usr/local/Cellar/node/9.4.0/bin/node /usr/local/bin/firebase deploy --only functions
+[debug] [2018-02-05T15:29:44.708Z] CLI Version:   3.17.4
+[debug] [2018-02-05T15:29:44.708Z] Platform:      darwin
+[debug] [2018-02-05T15:29:44.708Z] Node Version:  v9.4.0
+[debug] [2018-02-05T15:29:44.709Z] Time:          Mon Feb 05 2018 16:29:44 GMT+0100 (CET)
+[debug] [2018-02-05T15:29:44.709Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2018-02-05T15:29:44.717Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2018-02-05T15:29:44.717Z] > authorizing via signed-in user
+[debug] [2018-02-05T15:29:44.718Z] >>> HTTP REQUEST GET https://admin.firebase.com/v1/projects/sleipnir-metro  
+  
+ Mon Feb 05 2018 16:29:44 GMT+0100 (CET)
